@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474854659663",
+    "project_id": "partyhann",
+    "storage_bucket": "partyhann.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474854659663:android:92bd860b7baf0e97c03c3a",
+        "android_client_info": {
+          "package_name": "com.example.partyhann_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474854659663-rtmdd9j5pm10jttoqs5od8gm22fhmhgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO0dfKuxd4sb20QExGs6L0zUJnlyu1Bjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474854659663-rtmdd9j5pm10jttoqs5od8gm22fhmhgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
